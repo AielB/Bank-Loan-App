@@ -1,0 +1,101 @@
+OrderID,CustomerAge,Gender,ProductCategory,Quantity,UnitPrice,TotalAmount,PaymentMethod,Region,Returned
+ORD1000,62,Male,Beauty,5,120.45,602.25,Cash on Delivery,East,0
+ORD1001,49,Female,Books,3,292.75,878.25,Credit Card,North,0
+ORD1002,47,Male,Beauty,2,432.25,864.5,Credit Card,North,0
+ORD1003,64,Male,Books,3,440.78,1322.34,Debit Card,West,0
+ORD1004,52,Male,Home & Kitchen,1,122.16,122.16,Cash on Delivery,East,0
+ORD1005,57,Female,Beauty,2,454.31,908.62,Credit Card,North,0
+ORD1006,33,Male,Electronics,5,297.98,1489.9,PayPal,West,0
+ORD1007,30,Male,Electronics,2,178.36,356.72,PayPal,East,0
+ORD1008,59,Male,Electronics,2,355.55,711.1,Credit Card,West,0
+ORD1009,47,Female,Clothing,2,243.43,486.86,PayPal,South,0
+ORD1010,36,Male,Clothing,2,192.1,384.2,Credit Card,North,0
+ORD1011,34,Male,Electronics,3,354.02,1062.06,Debit Card,South,0
+ORD1012,36,Male,Books,1,128.12,128.12,Debit Card,East,1
+ORD1013,45,Male,Clothing,4,168.48,673.92,Debit Card,South,0
+ORD1014,43,Female,Electronics,2,220.05,440.1,Credit Card,South,0
+ORD1015,54,Male,Clothing,5,130.57,652.85,PayPal,East,0
+ORD1016,43,Female,Electronics,2,205.58,411.16,Credit Card,West,0
+ORD1017,40,Female,Books,5,287.88,1439.4,Credit Card,South,0
+ORD1018,26,Female,Electronics,3,371.78,1115.34,Credit Card,West,0
+ORD1019,29,Male,Beauty,5,384.76,1923.8,Debit Card,South,0
+ORD1020,18,Female,Books,4,412.28,1649.12,PayPal,West,0
+ORD1021,18,Male,Electronics,1,373.38,373.38,Credit Card,East,1
+ORD1022,64,Female,Electronics,5,342.11,1710.55,Debit Card,South,0
+ORD1023,51,Female,Books,5,122.57,612.85,Credit Card,East,1
+ORD1024,49,Female,Home & Kitchen,1,203.11,203.11,Debit Card,South,0
+ORD1025,42,Female,Home & Kitchen,4,241.47,965.88,Credit Card,East,0
+ORD1026,57,Female,Books,2,46.03,92.06,PayPal,East,0
+ORD1027,62,Female,Electronics,5,266.54,1332.7,Credit Card,South,0
+ORD1028,18,Female,Clothing,1,220.99,220.99,Cash on Delivery,South,0
+ORD1029,33,Female,Electronics,3,402.04,1206.12,Credit Card,South,0
+ORD1030,56,Male,Books,1,489.06,489.06,Credit Card,North,0
+ORD1031,22,Male,Home & Kitchen,3,280.22,840.66,Credit Card,West,1
+ORD1032,39,Female,Clothing,4,164.73,658.92,Cash on Delivery,North,0
+ORD1033,46,Female,Electronics,2,26.48,52.96,PayPal,North,0
+ORD1034,20,Female,Clothing,1,462.7,462.7,Credit Card,East,0
+ORD1035,29,Male,Clothing,5,459.96,2299.8,PayPal,South,0
+ORD1036,43,Female,Home & Kitchen,4,130.23,520.92,PayPal,West,0
+ORD1037,33,Male,Home & Kitchen,1,349.23,349.23,Debit Card,East,0
+ORD1038,54,Male,Books,5,42.34,211.7,Debit Card,North,0
+ORD1039,39,Male,Clothing,1,87.28,87.28,Credit Card,South,0
+ORD1040,46,Male,Electronics,3,112.32,336.96,Credit Card,East,0
+ORD1041,31,Male,Home & Kitchen,1,150.77,150.77,PayPal,South,0
+ORD1042,45,Female,Books,1,497.94,497.94,Cash on Delivery,East,0
+ORD1043,22,Female,Home & Kitchen,1,349.98,349.98,Debit Card,South,0
+ORD1044,64,Female,Books,4,195.18,780.72,Credit Card,North,0
+ORD1045,47,Female,Clothing,1,369.86,369.86,Credit Card,West,0
+ORD1046,63,Female,Clothing,5,458.05,2290.25,PayPal,North,0
+ORD1047,22,Male,Clothing,3,479.56,1438.68,PayPal,West,0
+ORD1048,29,Female,Electronics,3,33.64,100.92,PayPal,South,0
+ORD1049,33,Female,Electronics,1,200.29,200.29,PayPal,East,0
+ORD1050,43,Male,Electronics,4,57.84,231.36,Debit Card,North,0
+ORD1051,43,Female,Home & Kitchen,4,171.15,684.6,Credit Card,West,0
+ORD1052,38,Male,Clothing,5,88.99,444.95,Credit Card,North,0
+ORD1053,56,Female,Clothing,1,325.19,325.19,PayPal,West,0
+ORD1054,53,Male,Beauty,3,197.19,591.57,Debit Card,North,0
+ORD1055,50,Female,Electronics,4,118.55,474.2,Credit Card,West,0
+ORD1056,47,Female,Clothing,1,136.64,136.64,Credit Card,West,1
+ORD1057,54,Male,Books,4,183.37,733.48,PayPal,South,0
+ORD1058,40,Male,Electronics,4,133.68,534.72,Credit Card,West,0
+ORD1059,27,Male,Electronics,3,229.35,688.05,Credit Card,South,0
+ORD1060,22,Male,Electronics,2,21.0,42.0,Debit Card,West,0
+ORD1061,53,Male,Electronics,5,143.48,717.4,PayPal,East,0
+ORD1062,51,Male,Beauty,5,208.55,1042.75,PayPal,East,0
+ORD1063,48,Male,Books,3,303.38,910.14,Credit Card,East,0
+ORD1064,27,Male,Home & Kitchen,4,139.12,556.48,PayPal,West,0
+ORD1065,36,Female,Books,1,70.93,70.93,Credit Card,South,0
+ORD1066,49,Female,Books,4,42.72,170.88,Credit Card,South,1
+ORD1067,18,Male,Electronics,3,470.56,1411.68,PayPal,West,0
+ORD1068,22,Female,Books,5,211.24,1056.2,Debit Card,East,0
+ORD1069,62,Female,Clothing,4,292.68,1170.72,PayPal,East,0
+ORD1070,21,Female,Books,5,459.99,2299.95,PayPal,South,0
+ORD1071,33,Female,Books,1,45.96,45.96,Debit Card,East,0
+ORD1072,41,Male,Clothing,5,438.95,2194.75,Credit Card,North,0
+ORD1073,33,Female,Electronics,5,278.04,1390.2,Credit Card,South,0
+ORD1074,19,Male,Electronics,2,86.59,173.18,Credit Card,East,0
+ORD1075,45,Female,Clothing,2,208.57,417.14,Credit Card,South,0
+ORD1076,49,Female,Books,2,389.91,779.82,Cash on Delivery,North,0
+ORD1077,44,Female,Books,5,242.78,1213.9,Credit Card,South,0
+ORD1078,37,Male,Electronics,3,492.72,1478.16,PayPal,South,0
+ORD1079,41,Female,Clothing,5,191.49,957.45,Debit Card,South,0
+ORD1080,29,Male,Clothing,3,376.04,1128.12,PayPal,South,1
+ORD1081,52,Female,Electronics,3,199.53,598.59,Debit Card,North,0
+ORD1082,50,Male,Electronics,2,415.44,830.88,Debit Card,West,1
+ORD1083,50,Female,Clothing,4,286.7,1146.8,Debit Card,South,0
+ORD1084,60,Male,Beauty,1,36.44,36.44,Credit Card,South,0
+ORD1085,54,Male,Clothing,2,23.23,46.46,PayPal,East,0
+ORD1086,29,Female,Clothing,2,71.26,142.52,Credit Card,South,0
+ORD1087,20,Male,Home & Kitchen,4,11.77,47.08,Credit Card,East,0
+ORD1088,18,Female,Clothing,1,42.3,42.3,Debit Card,West,0
+ORD1089,50,Female,Beauty,5,347.4,1737.0,Credit Card,North,0
+ORD1090,57,Female,Beauty,5,269.5,1347.5,Cash on Delivery,North,0
+ORD1091,27,Female,Electronics,2,376.21,752.42,Cash on Delivery,West,0
+ORD1092,60,Female,Clothing,1,457.02,457.02,Cash on Delivery,North,0
+ORD1093,61,Female,Clothing,2,294.65,589.3,Credit Card,West,0
+ORD1094,46,Female,Electronics,3,364.43,1093.29,Credit Card,West,0
+ORD1095,30,Female,Electronics,2,379.76,759.52,Cash on Delivery,West,0
+ORD1096,29,Female,Home & Kitchen,2,192.04,384.08,Debit Card,North,0
+ORD1097,48,Female,Clothing,5,124.34,621.7,Cash on Delivery,East,0
+ORD1098,63,Female,Electronics,5,106.5,532.5,Cash on Delivery,West,0
+ORD1099,19,Male,Electronics,5,129.46,647.3,PayPal,South,0
